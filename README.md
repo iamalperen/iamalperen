@@ -1,8 +1,7 @@
-- 👋  Hi, I’m Alperen.
-- 👀  Senior Frontend Developer
-- 🌱  Udemy Instructor
-- 💞️  Passionate Lover
-- 📫  How to reach me ...
+- 👋  &nbsp;Hi, I’m Alperen.
+- 👀  &nbsp;Senior Frontend Developer
+- 🌱  &nbsp;Udemy Instructor
+- 💞️  &nbsp;Passionate Lover
 
 <!---
 iamalperen/iamalperen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
