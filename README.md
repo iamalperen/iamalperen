@@ -1,7 +1,8 @@
 - 👋  &nbsp;Hi, I’m Alperen.
-- 👀  &nbsp;Senior Frontend Developer
+- 👨‍💻  &nbsp;Senior Frontend Developer
 - 🌱  &nbsp;Udemy Instructor
-- 💞️  &nbsp;Passionate Lover
+- 🖥  &nbsp;Pushing the pixels to build awesome UIs with love!
+- 👀  &nbsp;UI Development, Responsive Web Design, Web Engineering, User Experience, Motion UI 
 
 <!---
 iamalperen/iamalperen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
