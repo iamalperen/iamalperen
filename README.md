@@ -3,6 +3,7 @@
 - 🌱  &nbsp;Udemy Instructor
 - 🖥  &nbsp;Pushing the pixels to build awesome UIs with love!
 - 👀  &nbsp;UI Development, Responsive Web Design, Web Engineering, User Experience, Motion UI, Frontend Lessons
+- ✨  &nbsp;Old repo: https://github.com/alperentalaslioglu
 
 <!---
 iamalperen/iamalperen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
