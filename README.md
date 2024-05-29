@@ -12,8 +12,10 @@ Welcome to my GitHub profile! I'm dedicated to pushing the boundaries of web dev
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
-- **🔭 Current Focus:** Pioneering advanced frontend projects and leveraging the latest web technologies.
+
+- **🔭 Current Focus:** Learning Web3, exploring micro frontend technologies, and diving into new advancements in web development.
 - **🌱 Lifelong Learner:** Continuously exploring trends in web development, performance optimization, and modern UI/UX design.
 - **👨‍🏫 Educator:** Teaching in-depth courses on Udemy, empowering developers to master frontend skills and build stunning applications.
 - **💼 Expertise:**
