@@ -30,8 +30,6 @@ Welcome to my GitHub profile! I'm dedicated to pushing the boundaries of web dev
   - **Frontend Frameworks:** Expertise in Angular, React and React Native.
   - **Version Control:** Proficient in Git for source code management and collaboration.
   - **Web3 Development:** Exploring decentralized applications (dApps) and blockchain technology.
-
-
 - **💖 Passionate About:** Transforming creative concepts into functional, beautiful user interfaces that delight users.
 - **🔗 Let's Connect:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamalperen) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/alp3r3n)
 
