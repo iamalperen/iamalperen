@@ -37,4 +37,4 @@ Welcome to my GitHub profile! I'm dedicated to pushing the boundaries of web dev
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamalperen)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/alp3r3n)
 
-Explore my [old repository](https://github.com/alperentalaslioglu) to see some of my previous works.
+Explore my [old repository](https://github.com/alperentalaslioglu) to see some of my previous works since 2012.
