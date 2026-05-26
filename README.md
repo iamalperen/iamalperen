@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alperen
 
-## 👨‍💻 Staff Frontend Developer | 🌱 Udemy Instructor | 🌐 Web3 Enthusiast
+## 👨‍💻 Expert Frontend Developer | 🌱 Udemy Instructor | 🌐 Web3 Enthusiast
 
 Welcome to my GitHub profile! I'm dedicated to pushing the boundaries of web development and crafting seamless user experiences.
 
